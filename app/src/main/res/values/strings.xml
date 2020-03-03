@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sendtokengetmsg</string>
+    <string name="FCM_PREF">example.com.sendtokengetmsg.fcm_pref</string>
+    <string name="FCM_TOKEN">example.com.sendtokengetmsg.fcm_token</string>
+</resources>
